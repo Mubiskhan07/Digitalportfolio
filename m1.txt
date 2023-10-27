@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>my site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5faf7;
+            text-align: center;
+        }
+        
+        .container {
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f1faa3;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+        }
+        
+        h1 {
+            color: #63f8f1;
+        }
+        
+        p {
+            color: #b4ee41;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to my Website</h1>
+        <p>This is a sample web design </p>
+        <a href="#" class="btn">Click Me</a>
+    
+    </div>
+    <h2>IMPORTANT THINGS IN MY LIFE</h2>
+    <h3>
+     <section> 
+        <nav>
+            
+                 <li>FAMILY</li>
+                 <li>FRIENDS</li>
+                 <li>EDUCATION</li>
+                 <li>HEALTH</li>
+            
+        </nav>
+     </section>
+    </h3>
+</body>
+</html>
